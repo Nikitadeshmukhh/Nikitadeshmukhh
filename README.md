@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/search?q=banner+coding+images&sxsrf=ALiCzsYT0G2A8k8VUzs1TxxsPZVqj3PZlw:1658406818662&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi6wcbq_on5AhVdaGwGHarvAQoQ_AUoAXoECAEQAw&biw=1536&bih=722&dpr=1.25#imgrc=dn7igWw0CILxSM&imgdii=U0NuKFdZG_JwwM)
+![MasterHead](https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg)
 <h1 align="center">Hi 👋, I'm Nikita Deshmukh</h1>
 <h3 align="center">A passionate frontend developer and Java Developer from India</h3>
-<img align="right" width="400" src="https://dribbble.com/shots/15628402-Working-on-a-Project">
+<img align="right" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=400x300&vertical=top">
 
 <p align="left"> <a href="https://twitter.com/@nikita72415061" target="blank"><img src="https://img.shields.io/twitter/follow/@nikita72415061?logo=twitter&style=for-the-badge" alt="@nikita72415061" /></a> </p>
 
